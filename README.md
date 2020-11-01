@@ -1,6 +1,6 @@
 # Simple Pandemic Simulation
 ### by Stan Mohler, Jr.
-October 2020
+November 2020
 
 I'm not an epidemiologist, just a software engineer.  
 
